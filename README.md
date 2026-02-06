@@ -122,7 +122,9 @@ else:
 ```
 ### Output:
 <img width="526" height="678" alt="image" src="https://github.com/user-attachments/assets/db2d64df-98ed-433d-ba32-bcb201087a44" />
+
 <img width="307" height="447" alt="image" src="https://github.com/user-attachments/assets/b5c4ebae-19c4-46fd-a192-497fd896c0ad" />
+
 <img width="364" height="678" alt="image" src="https://github.com/user-attachments/assets/13afb534-3d38-4563-82df-5f92ddfd3623" />
 
 ### Visualization:
